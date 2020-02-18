@@ -2,26 +2,10 @@
     "isCustomThemeEnabled": "false",
     "defaultTheme": "Dark",
     "navigationTheme": {
-        "custom": {
-            "navigationBarColor": "#333740",
-            "titleColor": "#F0EEF4",
-            "barButtonTextColor": "#F0EEF4",
-            "translucent": "false",
-            "statusBarApperance": "light"
-        },
-        "dark": {
-            "navigationBarColor": "#333740",
-            "titleColor": "#F0EEF4",
-            "barButtonTextColor": "#F0EEF4",
-            "translucent": "false",
-            "statusBarApperance": "light"
-        },
-        "light": {
-            "navigationBarColor": "#376CCE",
-            "titleColor": "#FEFDFA",
-            "barButtonTextColor": "#FEFDFA",
-            "translucent": "false",
-            "statusBarApperance": "dark"
-        }
+        "navigationBarColor": "#333740",
+        "titleColor": "#F0EEF4",
+        "barButtonTextColor": "#F0EEF4",
+        "translucent": "false",
+        "statusBarApperance": "light"
     }
 }
