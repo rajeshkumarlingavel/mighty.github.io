@@ -1,7 +1,7 @@
 {
     "isCustomThemeEnabled": "false",
     "clientCanOverride": "false",
-    "defaultTheme": "Light",
+    "defaultTheme": "Dark",
     "navigationTheme": {
         "navigationBarColor": "#EA9029",
         "titleColor": "#FDFCFD",
