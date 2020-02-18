@@ -1,6 +1,6 @@
 {
     "isCustomThemeEnabled": "false",
-    "clientCanOverride": "false",
+    "clientCanOverride": "true",
     "defaultTheme": "Dark",
     "navigationTheme": {
         "navigationBarColor": "#EA9029",
