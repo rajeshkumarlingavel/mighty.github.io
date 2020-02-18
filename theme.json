@@ -1,11 +1,11 @@
 {
-    "isCustomThemeEnabled": true,
+    "isCustomThemeEnabled": "true",
     "defaultTheme": "Dark",
     "navigationTheme": {
         "navigationBarColor": "#DC467B",
         "titleColor": "#FDFCFD",
         "barButtonTextColor": "#FDFCFD",
-        "translucent": false,
+        "translucent": "false",
         "statusBarApperance": "light"
     }
 }
